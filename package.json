@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-3d",
+  "version": "1.0.0",
+  "description": "3D Digital Human Portfolio",
+  "scripts": {
+    "dev": "python -m http.server 5000 --bind 0.0.0.0",
+    "build": "echo 'Build completed successfully'"
+  },
+  "keywords": ["portfolio", "3d", "digital-human"],
+  "author": "",
+  "license": "MIT"
+}

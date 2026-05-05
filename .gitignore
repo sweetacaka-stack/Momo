@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+*.swp
+__pycache__/
+*.pyc
+.venv/*
+*.o
+*.a
+/vendor
+*.egg-info/
+/.env
+.env
